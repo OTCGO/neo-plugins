@@ -1,0 +1,8 @@
+{
+  "PluginConfiguration": {
+    "Conn": "mongodb://127.0.0.1",
+    "DataBase": "test",
+    "Coll_Balance": "balance",
+    "Coll_Status": "balanceStatus"
+  }
+}
