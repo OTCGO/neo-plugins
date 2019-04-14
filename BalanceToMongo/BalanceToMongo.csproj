@@ -5,7 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="mongocsharpdriver" Version="2.9.0-beta1" />
+      <PackageReference Include="mongocsharpdriver" Version="2.8.0" />
       <PackageReference Include="Neo" Version="2.10.1" />
     </ItemGroup>
 

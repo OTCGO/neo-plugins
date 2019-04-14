@@ -492,7 +492,7 @@ namespace BalanceToMongo
         public void SaveMongo(string key, string address, decimal score)
         {
             //  Console.WriteLine("1");
-            Console.WriteLine("SaveMongokey: {0},number: {1},score :{2}", key, address, score);
+        //    Console.WriteLine("SaveMongokey: {0},number: {1},score :{2}", key, address, score);
 //
 //
 //           
